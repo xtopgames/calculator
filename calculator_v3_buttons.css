@@ -1,0 +1,25 @@
+.number{color :white;
+font-size: 13px;
+text-align: center;
+background-color: brown;
+justify-content: space-around;
+width: 33px;
+height:33px; }
+.clear{color :white;
+text-align: center;
+background-color: brown;
+justify-content: space-between;
+width: 33px; 
+height:33px;
+background-color: rgb(255, 160, 122);}
+.signs{color :white;
+text-align: center;
+background-color: brown;
+justify-content: space-between;
+width: 33px; 
+height:33px;
+background-color: rgb(255, 69, 0);}
+
+.a{background-color: beige;}
+tr{background-color: black;}
+table{background-color: black;}
